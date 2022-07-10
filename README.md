@@ -3,7 +3,7 @@
 ![Password Generator Screenshot](/screenshot/screenshot.png "Password Generator Screenshot")
 
 
-Javascript weekly challenge #3 password generator refactoring 
+Javascript weekly challenge #3 random password generator refactoring 
 
 <h2>View Webpage</h2>
 
